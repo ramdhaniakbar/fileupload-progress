@@ -1,6 +1,6 @@
 # 📊 File Upload Progress
 
-But form upload file seperti gambar di bawah ini , upload dilengkapi dengan
+Buat form upload file seperti gambar di bawah ini , upload dilengkapi dengan
 progress bar sesuai dengan progress upload, file upload dapat mengupload sampai
 dengan 1G
 
